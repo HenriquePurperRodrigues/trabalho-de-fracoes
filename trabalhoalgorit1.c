@@ -167,12 +167,4 @@ int main ()
             dividirFracoes();
         }
     }
-
-/*
-    Considerações finais: Foi um código relativamente simples em termos de lógica, mas com um cálculo muito aprofundado por trás. Por conta disso, não houve comentários
-    para além do começo, já que 99% do algoritmo foi pura fórmula autoexplicativa... A parte mais difícil com certeza foi iniciar esse projeto, organizar a lógica e descobrir como
-    implementar as fórmulas. Não achei necessário o uso de variavéis locais nas funções para exercer tudo além de "numerador" e "denominador" que se repetem justamente para
-    formar um padrão no código facilmente reconhecível.
-
-*/
 }
